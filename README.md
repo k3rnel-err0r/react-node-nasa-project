@@ -2,6 +2,12 @@
 
 This project is a React and Node.js application that simulates NASA's mission control interface for scheduling and managing space launches.
 
+## Architecture
+
+![NASA Mission Control Architecture](https://github.com/user-attachments/assets/1fea5dc0-13f1-45ff-a0e7-eee8fe47bd69)
+
+
+
 ## Project Structure
 
 The project is divided into two main parts:
